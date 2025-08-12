@@ -19,7 +19,7 @@ This project detects LPG gas leaks using an **ESP32**, **MQ-2 Gas Sensor**, **Se
 - Jumper wires, Breadboard
 
 ## Circuit Diagram
-![Circuit](circuit-diagram.png)  <!-- yaha tum image ka link add karoge -->
+![Circuit](Prototype.png) 
 
 ## How to Run
 1. Install Arduino IDE.
